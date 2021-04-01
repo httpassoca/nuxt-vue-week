@@ -1,5 +1,7 @@
 # nuxt-vue-week
 
+Projetinho de Nuxt que imita a Next Level Week, mas com Nuxt. Feito pra aprendizado (Nuxt Levue Week). Obrigado, @rafaelmaiach.
+
 ## Build Setup
 
 ```bash
